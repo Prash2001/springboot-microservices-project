@@ -34,8 +34,8 @@ Follow these steps to set up and run the project on your local machine.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/microservices-project.git
-   cd microservices-project
+   git clone https://github.com/Prash2001/springboot-microservices-project.git
+   cd springboot-microservices-project
    ```
 2. **Docker Compose:**
    - Create a `docker-compose.yml` file at the root of your project with the necessary configurations for each service. Here's a basic example:
